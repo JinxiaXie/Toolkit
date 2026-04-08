@@ -7,5 +7,5 @@ Scatter_plot.py
 Attn_map.py
 
 ## everything
-在Windows系统中非常好用的搜索工具：everything：https://www.voidtools.com/zh-cn/downloads/
+在Windows系统中非常好用的搜索工具：https://www.voidtools.com/zh-cn/downloads/
 
